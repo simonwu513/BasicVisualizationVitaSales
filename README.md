@@ -1,4 +1,6 @@
 
 VueJS
+
 ChartJS
-Fetch connected to Python Django Backend
+
+Fetch to Python Django Backend
